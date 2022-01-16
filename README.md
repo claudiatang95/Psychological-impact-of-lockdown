@@ -29,7 +29,8 @@ W i = θCountry + δlagged new deaths + ∑ λweek iDweek i + γi
 where Dweek i = 1 for week ​i ​in Italy, Dweek i = 0 ​for all the other observations. The week fixed
 effect is denoted by γi .
 The results show that for topic searches on which lockdown has statistically significant effect (namely ​boredom,​ ​panic​, ​sleep​, ​suicide​, ​wellbeing​), there is no lead effect ( see Table 1). The trends of the searches in 3 countries are visualized in Figure 1.1 to Figure 1.5.
-![]
+
+![](/figures/figure1.1.png)
 
 
 
