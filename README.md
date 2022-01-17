@@ -36,6 +36,23 @@ figure 1.1
 ![](/figures/figure1.2.png)
 figure 1.2
 
+![](/figures/figure1.3.png)
+figure 1.3
+
+![](/figures/figure1.4.png)
+figure 1.4
+
+![](/figures/figure1.5.png)
+figure 1.5
+
+## Results
+The lockdown has a statistically significant effect on the searches for 5 topics: ​Boredom​, ​Panic,​ Sleep,​ ​Suicide and ​Well-being​. During the first 2 weeks of lockdown there was a significant rise in search intensity for boredom. This result is consistent with what Brodeur et al. found for European countries. While for ​Panic​, ​Sleep​, ​Suicide and ​Well-being​, lockdown had a negative effect for their search intensity.
+The most surprising finding is lockdown’s negative effect on searches for​Panic​ topic. As shown in figure 1.2, before lockdown, there were many more searches for panic topic in Italy than in UK and Germany. After lockdown was imposed (week 11) in Italy, the searches decreased a little in Italy and increased a lot in UK and Germany. Although we can’t jump to the conclusion that Italian people feel less panicked due to lockdown measures, this finding provides directions for researchers to further study the Covid-19 lockdown policy and its psychological impact. The lockdown in Italy also reduced the searches for ​Suicide​ topic, although compared to UK and Germany, searches for ​Suicide​ in Italy were still more intense.
+
+In conclusion, our research shows that lockdown in Italy doesn’t have significant detrimental effects on people’s mental health in the first two weeks.
+
+## Reference 
+Abel Brodeur, Andrew E. Clark, Sarah Fleche & Nattavudh Powdthavee (2020). COVID-19, lockdowns and well-being: Evidence from Google Trends. ​Journal of Public Economics, Volume 193, 2021.
 
 
 
