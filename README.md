@@ -31,6 +31,10 @@ effect is denoted by γi .
 The results show that for topic searches on which lockdown has statistically significant effect (namely ​boredom,​ ​panic​, ​sleep​, ​suicide​, ​wellbeing​), there is no lead effect ( see Table 1). The trends of the searches in 3 countries are visualized in Figure 1.1 to Figure 1.5.
 
 ![](/figures/figure1.1.png)
+figure 1.1
+
+![](/figures/figure1.2.png)
+figure 1.2
 
 
 
